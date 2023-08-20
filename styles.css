@@ -1,0 +1,18 @@
+body{
+  background-color: beige;
+}
+p{
+  color: blue;
+  font-size: 50%;
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  border: 5px solid rgb(93, 207, 18);
+  padding: 50px;
+  padding-top: 150px;
+  margin-bottom: 150px;
+
+
+}
